@@ -1,0 +1,1 @@
+This folder contains the trained model in hdf5 format, log files.
