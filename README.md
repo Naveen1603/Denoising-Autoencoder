@@ -7,8 +7,20 @@ Denoising autoencoder is a stochastic extension to classic autoencoder , that is
 ![Denoising Autoencoder](Pics/autoencoder.png  "Denoising Autoencoder")
 
 ### Input and Output image samples
-![Pic1](Pics/pic1.png "pic1")
-![Pic2](Pics/pic2.png "pic2")
-![Pic3](Pics/pic3.png "pic3")
-![Pic4](Pics/pic4.png "pic4")
-![Pic5](Pics/pic5.png "pic5")
+
+
+![Pic1](Pics/pic1.PNG "pic1")
+
+
+![Pic2](Pics/pic2.PNG "pic2")
+
+
+![Pic3](Pics/pic4.PNG "pic3")
+
+
+![Pic4](Pics/pic3.PNG "pic4")
+
+
+![Pic5](Pics/pic5.PNG "pic5")
+
+![Pic6](Pics/pic6.PNG "Pic6")
